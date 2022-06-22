@@ -1,6 +1,6 @@
 # Live Demo Here
 
-https://m-ahmer-akram.github.io/hooks-reducer-context-effect
+https://m-ahmer-akram.github.io/effect-reducer-context
 
 # Getting Started with Create React App
 
