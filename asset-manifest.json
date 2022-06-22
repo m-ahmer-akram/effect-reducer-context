@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/effect-reducer-context/static/css/main.83e2e29f.css",
+    "main.js": "/effect-reducer-context/static/js/main.e2a4db55.js",
+    "static/js/787.0e5ccab8.chunk.js": "/effect-reducer-context/static/js/787.0e5ccab8.chunk.js",
+    "index.html": "/effect-reducer-context/index.html",
+    "main.83e2e29f.css.map": "/effect-reducer-context/static/css/main.83e2e29f.css.map",
+    "main.e2a4db55.js.map": "/effect-reducer-context/static/js/main.e2a4db55.js.map",
+    "787.0e5ccab8.chunk.js.map": "/effect-reducer-context/static/js/787.0e5ccab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83e2e29f.css",
+    "static/js/main.e2a4db55.js"
+  ]
+}
